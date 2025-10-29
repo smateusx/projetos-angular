@@ -12,6 +12,6 @@ export class Login {
   senha:string = '';
 
   onBotaoClicado():void{
-    alert(`Login: ${this.login} | Senha: ${this.senha}`)
+    
   }
 }
